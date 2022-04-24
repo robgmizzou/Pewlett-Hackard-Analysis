@@ -12,7 +12,8 @@ Overall, 85,896 employees were identifed as part of the "Silver Tsunami".
 - 1,761 Assistant Engineers
 - 2 Managers
 <br>
-By reworking the query we used to aggregate the retirement candidates, we can also identify mentorship candidates were also identified, illustrating a large shortfall in internal candidate to elevate in the future:
+By reworking the query we used to aggregate the retirement candidates, we can also identify mentorship candidates were also identified, illustrating a large shortfall in internal candidate to elevate in the future:<br>
+
 - 579 Staff
 - 569 Senior Staff
 - 550 Engineers
